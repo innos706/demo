@@ -1,4 +1,9 @@
 ADD 1
 Hello Git!!
+<<<<<<< HEAD
 Edited by RB1.0 branch.
+=======
+HELLO Git!
+Also Edited by RB1.0 branch
+>>>>>>> test 1111
 
